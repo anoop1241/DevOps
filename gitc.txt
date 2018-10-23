@@ -54,6 +54,6 @@ staged = we have marked the modified file in its current version to go into next
 
 *************************
 git branch = list of all branches in the repo.
-git add branch = 
+git add branch  = 
 
 
