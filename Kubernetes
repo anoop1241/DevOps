@@ -1,0 +1,17 @@
+What is Docker? What are you using it for?
+How containers are different from VMs?
+In which scenarios would you use containers and in which you would prefer to use VMs?
+Explain Docker architecture
+Describe in detail what happens when you run `docker run hello-world`?
+How do you run a container?
+What `docker commit` does?. When will you use it?
+How would you transfer data from one container into another?
+What happens to data of the container when a container exists?
+Explain what each of the following commands do:
+docker run
+docker rm
+docker ps
+docker pull
+docker build
+docker commit
+How do you remove old, non running, containers?
